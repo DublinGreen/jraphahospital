@@ -1,2 +1,2 @@
 # jraphahospital
-jrapha hospital website
+jrapha hospital website, LAMP Stack
